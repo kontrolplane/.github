@@ -13,4 +13,7 @@ At `kontrolplane` we're focused on building developer tools and automation solut
 **continuous-integration** & **continuous-deployment**
 
 `pull-request-title-validator`: GitHub Action for validation of pull request titles based on the conventional commit specification.
+<br>
 `generate-contributors-list`: GitHub Action for generating a list of contibutors of a repository to be used in markdown.
+<br>
+`publish-directory`: Github Action for publishing directories as repository branches/tags.
