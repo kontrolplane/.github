@@ -8,12 +8,12 @@ At `kontrolplane` we're focused on building developer tools and automation solut
 
 **applications**
 
-`kue`: A terminal user interface for working with Amazon Web Services Simple Queue Service. 
+`kue`: terminal user interface for working with Amazon Web Services Simple Queue Service. 
 
 **continuous-integration** & **continuous-deployment**
 
-`pull-request-title-validator`: GitHub Action for validation of pull request titles based on the conventional commit specification.
+`pull-request-title-validator`: validation of pull request titles based on the conventional commit specification.
 <br>
-`generate-contributors-list`: GitHub Action for generating a list of contibutors of a repository to be used in markdown.
+`generate-contributors-list`: generating a list of contibutors of a repository to be used in markdown.
 <br>
-`publish-directory`: Github Action for publishing directories as repository branches/tags.
+`publish-directory`: publishing directories as repository branches/tags.
